@@ -85,6 +85,22 @@ A geospatial application for processing and visualizing NASA Landsat satellite i
 
 ---
 
+## 📊 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhrai-cse&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishabhrai-cse&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishabhrai-cse&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabhrai-cse&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishabhrai-cse&theme=github_dark&utcOffset=5.5" />
+</p>
+
 # 📫 Connect With Me
 
 📧 **Email:** **rairishabh.in@gmail.com**
