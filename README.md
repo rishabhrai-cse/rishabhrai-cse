@@ -1,97 +1,101 @@
 <h1 align="center">Hi 👋, I'm Rishabh Rai</h1>
-<h3 align="center">Computer Science Engineering Student | Python Developer | DSA Enthusiast | Open Source Learner</h3>
+
+<h3 align="center">
+Computer Science Engineering Student • Software Developer • DSA Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+Developer;DSA+Learner;Future+Software+Engineer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;C%2B%2B+%7C+Java+%7C+Python+Learner;DSA+Enthusiast;Web+Developer;Always+Learning+Something+New+🚀" />
+</p>
+
+<p align="center">
+<a href="https://github.com/rishabhrai-cse">
+<img src="https://img.shields.io/github/followers/rishabhrai-cse?label=Followers&style=for-the-badge">
+</a>
+
+<a href="https://github.com/rishabhrai-cse">
+<img src="https://img.shields.io/github/stars/rishabhrai-cse?style=for-the-badge">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=rishabhrai-cse&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 **B.Tech Computer Science & Engineering** Student
+🎓 B.Tech Computer Science Engineering Student
 
-🌱 Currently learning:
-- Python
+💻 Passionate about Software Development and Problem Solving
+
+🌱 Currently learning
 - Data Structures & Algorithms
-- Git & GitHub
-- HTML, CSS & JavaScript
+- Backend Development
+- Full Stack Web Development
+- Open Source
 
-🎯 Goals:
-- Crack Placement Interviews
-- Master DSA
-- Build Real-World Projects
-- Contribute to Open Source
+🎯 2026 Goals
 
-💡 Interested in:
-- Software Development
-- AI & Machine Learning
-- Cyber Security
-- Web Development
+- 🚀 Become a Software Engineer
+- 📚 Solve 500+ DSA Problems
+- 💻 Build Real World Projects
+- ⭐ Contribute to Open Source
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+
+<img src="https://skillicons.dev/icons?i=cpp,java,html,css,js"/>
+
 </p>
 
-### Web Development
+### Computer Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs" />
+
+<img src="https://img.shields.io/badge/OOPS-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge"/>
+
 </p>
 
-### Databases
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
 
-### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishabhrai-cse&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishabhrai-cse&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhrai-cse&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhrai-cse&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=rishabhrai-cse&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=rishabhrai-cse&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rishabhrai-cse&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -101,79 +105,95 @@
 
 ---
 
-## 📌 Featured Projects
+# 🏆 GitHub Trophies
 
-- 🐍 Python Learning Journey
-- 📚 Data Structures & Algorithms
-- 🌐 Web Development Projects
-- 🤖 AI & Machine Learning Projects
-- 🔐 Cyber Security Projects
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=rishabhrai-cse&theme=algolia&no-frame=true&margin-w=10"/>
 
-## 📖 Currently Learning
-
-- Advanced Python
-- Object-Oriented Programming
-- SQL & Databases
-- REST APIs
-- Django
-- Flask
-- React (Upcoming)
+</p>
 
 ---
 
-## 🎯 2026 Goals
+# 🚀 Featured Project
 
-- ✅ Solve 500+ DSA Problems
-- ✅ Build 15+ Projects
-- ✅ Contribute to Open Source
-- ✅ Master Python
-- ✅ Learn Full Stack Development
-- ✅ Secure a Software Engineering Internship
+## 🌍 NASA Landsat Reflectance Data Explorer
+
+A geospatial project focused on exploring and analyzing NASA Landsat satellite imagery.
+
+### Features
+
+- 🌎 Satellite Data Visualization
+- 🛰️ Landsat Reflectance Analysis
+- ☁️ Cloud Filtering
+- 📍 Region Based Search
+- 📊 Data Processing
 
 ---
 
-## 🌐 Connect With Me
+# 📚 Currently Learning
 
-<p>
+- Advanced DSA
+- OOPS
+- DBMS
+- Operating System
+- Computer Networks
+- Java
+- JavaScript
+
+---
+
+# 🎯 Skills
+
+| Skill | Level |
+|-------|--------|
+| C++ | ⭐⭐⭐⭐☆ |
+| Java | ⭐⭐⭐⭐☆ |
+| HTML | ⭐⭐⭐⭐☆ |
+| CSS | ⭐⭐⭐⭐☆ |
+| JavaScript | ⭐⭐⭐☆☆ |
+| DSA | ⭐⭐⭐⭐☆ |
+| DBMS | ⭐⭐⭐⭐☆ |
+| OOPS | ⭐⭐⭐⭐☆ |
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:rairishabh.in@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rishabh-rai-6ab238421">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="https://github.com/rishabhrai-cse">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<!-- Replace with your actual LinkedIn profile -->
-<a href="https://www.linkedin.com/in/your-linkedin-profile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<!-- Replace with your actual email -->
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 💬 Quote
+# 💡 Quote
 
-> **"Consistency beats intensity. Code every day, learn every day."**
+<div align="center">
 
----
+### *"The expert in anything was once a beginner."*
 
-<p align="center">
+🚀 Keep Learning • Keep Building • Keep Growing
 
-<img src="https://komarev.com/ghpvc/?username=rishabhrai-cse&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile! ⭐
 
 If you like my work, consider following me and starring my repositories.
 
-</p>
+</div>
