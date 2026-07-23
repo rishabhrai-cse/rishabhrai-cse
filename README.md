@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🎓 **Education:** B.Tech Computer Science & Engineering Student.
 - 💡 **Passion:** Software Development and Problem Solving.
@@ -24,14 +24,34 @@
 
 ## 🛠️ Tech Stack & Skills
 
-**Languages:** <br/>
-<img src="https://skillicons.dev/icons?i=cpp,java,html,css,js" />
+### 🌐 Frontend Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Icons" />
+</p>
 
-**Computer Science Fundamentals:** <br/>
-<img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge"/> <img src="https://img.shields.io/badge/OOP-7E57C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/DBMS-FF7043?style=for-the-badge"/> <img src="https://img.shields.io/badge/Operating_System-43A047?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer_Networks-1E88E5?style=for-the-badge"/>
+### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Backend Icons" />
+</p>
 
-**Tools & Platforms:** <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+### 💻 Core Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py" alt="Language Icons" />
+</p>
+
+### 🧠 Computer Science Fundamentals
+<p align="left">
+  <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/OOP-7E57C2?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/DBMS-FF7043?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Operating_System-43A047?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Computer_Networks-1E88E5?style=for-the-badge"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" alt="Tools Icons" />
+</p>
 
 ---
 
